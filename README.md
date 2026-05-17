@@ -13,3 +13,5 @@ Token-efficient compression for thinking + text. Drops recoverable grammar — a
 **Code** — unchanged. Comments, identifiers, paths, quoted errors stay verbatim.
 
 Based on [jonjonrankin/pi-caveman](https://github.com/jonjonrankin/pi-caveman).
+
+Pi extension: [pi-telegraph](https://github.com/janbam/pi-telegraph).
