@@ -1,4 +1,4 @@
-# Telegraph Mode Skill
+# 📡 Telegraph Mode Skill
 
 Caveman yesterday. Today telegraph.
 
